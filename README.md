@@ -17,7 +17,7 @@ psutil (process and system utilities) is a cross-platform library for retrieving
 
 ## Install Dependencies
 
-* Download the Code and Install all the dependencies in virtual environment from command.
+* Download the Code and Install all the dependencies in virtual environment using the command
   >  `pip install requirements`
 
 ## Usage
