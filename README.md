@@ -35,6 +35,6 @@ psutil (process and system utilities) is a cross-platform library for retrieving
 
 ## Images
 
-![Screenshot1](https://user-images.githubusercontent.com/78525041/116960343-1c883280-ac6e-11eb-98ca-49c622741603.png)
+![Screenshot1](https://user-images.githubusercontent.com/78525041/117362674-90525700-ae89-11eb-90f8-f84a6d48f759.png)
 ![Screenshot2](https://user-images.githubusercontent.com/78525041/116960688-278f9280-ac6f-11eb-81ae-a628f99d53a5.png)
 
