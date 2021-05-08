@@ -30,7 +30,7 @@ psutil (process and system utilities) is a cross-platform library for retrieving
 * Install all the dependecies in your virtual enviornment using the command
   > `pip install -r requirements.txt`
 * Execute the Code using the following command
-  > `python3 manage.py runserver`
+  > `python manage.py runserver`
 * Open the App on Browser using the server link to view the Results.
 
 ## Images
